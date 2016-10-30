@@ -9,7 +9,7 @@ const products = [
     "id": "002",
     "name": "Oranges",
     "price": "0.30",
-    "promo": [2, 1]
+    "promo": []
   },
   {
     "id": "003",
